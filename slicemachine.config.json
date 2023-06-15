@@ -1,5 +1,5 @@
 {
-  "apiEndpoint": "https://slicify.wroom.cdn.prismic.io/api/v2",
+  "apiEndpoint": "https://slicify-wroom.cdn.prismic.io/api/v2",
   "repositoryName": "slicify-wroom",
   "adapter": "@slicemachine/adapter-next",
   "libraries": ["./slices/marketing", "./slices/navigation", "./slices/blog"],
